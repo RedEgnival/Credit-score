@@ -1,5 +1,4 @@
 
-````markdown
 # Aave V2 Wallet Credit Scoring System
 
 ## Overview
